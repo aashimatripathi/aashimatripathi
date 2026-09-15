@@ -22,8 +22,8 @@ I am a Full Stack Developer with hands-on experience building scalable web appli
 ---
 
 ### 💼 Work Experience
-**Engineer Trainee (Frontend & SEO Focus)** | *Matchbest Software Pvt. Ltd*
-*(Dec 2025 - June 2026)* 
+**MERN Full Stack Developer** | *Matchbest Software Pvt. Ltd*
+*(Dec 2025 - August 2026)* 
 * Built and maintained web applications using React.js, Next.js, Node.js, Express.js, and MongoDB.
 * Developed responsive UIs, integrated REST APIs, and managed admin panel functionalities.
 * Implemented technical SEO strategies and optimized website performance.
@@ -31,7 +31,7 @@ I am a Full Stack Developer with hands-on experience building scalable web appli
 ---
 
 ### 🌟 Key Projects
-* **Elite Maverick:** US-Based Recruitment Platform built with Next.js, Node.js, and MongoDB.
+* **Elite Maverick:** Recruitment Platform built with Next.js, Node.js, and MongoDB.
 * **Healnova:** Healthcare website with a focus on responsive UI and SEO optimization.
 * **MamaCrunch:** Brand website built with React.js and Next.js.
 * **Oliven Jerry:** Premium E-Commerce platform integrated with GA4 for user tracking.
